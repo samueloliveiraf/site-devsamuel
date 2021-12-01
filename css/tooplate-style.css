@@ -507,6 +507,7 @@ strong {
 .contact-info {
     background: #474559;
     border-radius: 0 0 3px 3px;
+    padding: 25px;
     position: relative;
     bottom: 8px;
 }
@@ -549,7 +550,7 @@ strong {
         margin-top: 2em;
     }
     .contact-info {
-        padding: 0 2rem;
+        padding: 20px;
     }
 }
 
