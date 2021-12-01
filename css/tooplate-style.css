@@ -25,6 +25,10 @@ body {
     letter-spacing: 0.2px;
 }
 
+.img-site {
+    border-radius: 50%;
+}
+
 ul {
     margin: 0;
     padding: 0;
