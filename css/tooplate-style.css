@@ -580,6 +580,9 @@ strong {
 }
 
 @media (max-width: 580px) {
+    .audio {
+        margin-right: 30px;
+    }
     .animated-info {
         min-width: 200px;
     }
