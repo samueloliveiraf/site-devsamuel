@@ -525,8 +525,8 @@ strong {
 }
 
 .audio {
-    z-index: 2;
-    margin-top: -30px;
+    z-index: -2;
+    margin-top: 30px;
 }
 
 .social-links .uil:hover {
