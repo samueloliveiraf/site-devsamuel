@@ -524,6 +524,11 @@ strong {
     margin: 5px 0;
 }
 
+.audio {
+    z-index: 2;
+    margin-top: -30px;
+}
+
 .social-links .uil:hover {
     color: #ffc200;
 }
